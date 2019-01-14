@@ -22,7 +22,9 @@ Instructors: [Daniel Schad](https://danielschad.github.io/) and [Audrey Buerki](
 
 Topics to be covered:
 
-	- Very basic R usage, basic probability theory, random variables (RVs), including jointly distributed RVs, probability distributions, including bivariate distributions
+	- Very basic R usage, basic probability theory, random variables (RVs),
+	  including jointly distributed RVs, probability distributions, 
+	  including bivariate distributions
 	- Maximum Likelihood Estimation
 	- sampling distribution of mean
     - Null hypothesis significance testing, t-tests, confidence intervals
@@ -37,7 +39,8 @@ Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [
 
 Topics to be covered:
 
-	- Basic probability theory, random variable (RV) theory, including jointly distributed RVs
+	- Basic probability theory, random variable (RV) theory, 
+	  including jointly distributed RVs
 	- probability distributions, including bivariate distributions
     - Using Bayes' rule for statistical inference
     - Introduction Markov Chain Monte Carlo 
@@ -71,7 +74,8 @@ Topics will be some selection of the following topics:
     - Modeling censored data 
     - Meta-analysis 
     - Finite mixture models
-    - Model selection and hypothesis testing (Bayes factor and k-fold cross-validation)
+    - Model selection and hypothesis testing 
+      (Bayes factor and k-fold cross-validation)
  
 ## Funding
 
