@@ -4,7 +4,7 @@
 
 Please fill out [this form](https://goo.gl/forms/0Insv3bbbv1RrWiA2) to apply to attend this summer school. Deadling for applications: April 1, 2019. Decisions will be announced April 10, 2019.
 
-Some seats are reserved in each stream for members of the following groups: [SFB 1287](https://www.uni-potsdam.de/en/sfb1287/index.html), [SFB](https://www.uni-potsdam.de/de/sfb1294.html), and [SFB](http://www.sfb1102.uni-saarland.de/).
+Some seats are reserved in each stream for members of the following groups: [SFB 1287](https://www.uni-potsdam.de/en/sfb1287/index.html), [SFB 1294](https://www.uni-potsdam.de/de/sfb1294.html), and [SFB 1102](http://www.sfb1102.uni-saarland.de/).
 
 ## Summer School Location
 
