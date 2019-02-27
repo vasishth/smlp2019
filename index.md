@@ -18,8 +18,8 @@ The summer school will be held at the Griebnitzsee campus of the University of P
 The following are confirmed speakers:
 
     - Julia Haaf] on modeling individual differences  
-    - Douglas Bates (to be confirmed)
-    - Reinhold Kliegl (topic to be decided)
+    - Douglas Bates, title to be announced
+    - Reinhold Kliegl, title to be announced
 
 ## Curriculum
 
