@@ -12,6 +12,15 @@ Some seats are reserved in each stream for members of the following groups: [SFB
 
 The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. Invited lectures will be held in Hoersaal H02. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
+
+## Keynote lectures
+
+The following are confirmed speakers:
+
+    - Julia Haaf on modeling individual differences  
+    - Douglas Bates (topic to be decided)
+    - Reinhold Kliegl (topic to be decided)
+
 ## Curriculum
 
 For previous iterations of this summer school, see the website for [SMLP 2017](https://vasishth.github.io/SMLP2017/), and [SMLP 2018](https://vasishth.github.io/SMLP2018/).
@@ -50,7 +59,7 @@ Topics to be covered:
 
 ### Advanced frequentist methods (maximum 30 participants)
 
-Instructors: [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
+Instructors: [Douglas Bates]() [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
 
 Topics to be covered:
 
@@ -60,6 +69,7 @@ Topics to be covered:
     - Contrast coding and visualizing partial fixed effects
     - Shrinkage and partial pooling
     - Visualization
+    - [If there is demand] Some new developments in linear mixed modeling in Julia
 
 ### Advanced Bayesian methods (maximum 30 participants)
 
