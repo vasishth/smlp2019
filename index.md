@@ -17,9 +17,9 @@ The summer school will be held at the Griebnitzsee campus of the University of P
 
 The following are confirmed speakers:
 
-    - [Julia Haaf](https://psychology.missouri.edu/people/haaf) on modeling individual differences  
-    - [Douglas Bates](https://www.stat.wisc.edu/~bates/) (topic to be decided)
-    - [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html) (topic to be decided)
+    - Julia Haaf] on modeling individual differences  
+    - Douglas Bates (to be confirmed)
+    - Reinhold Kliegl (topic to be decided)
 
 ## Curriculum
 
@@ -59,7 +59,7 @@ Topics to be covered:
 
 ### Advanced frequentist methods (maximum 30 participants)
 
-Instructors: [Douglas Bates](https://www.stat.wisc.edu/~bates/) [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
+Instructors: [Douglas Bates](https://www.stat.wisc.edu/~bates/) (to be confirmed), [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
 
 Topics to be covered:
 
