@@ -59,7 +59,7 @@ Topics to be covered:
 
 ### Advanced frequentist methods (maximum 30 participants)
 
-Instructors: [Douglas Bates](https://www.stat.wisc.edu/~bates/) (to be confirmed), [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
+Instructors: [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html), and [Douglas Bates](https://www.stat.wisc.edu/~bates/)
 
 Topics to be covered:
 
