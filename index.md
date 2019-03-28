@@ -20,6 +20,7 @@ The following are confirmed speakers:
     - Julia Haaf, on modeling individual differences  
     - Douglas Bates, title to be announced
     - Reinhold Kliegl, title to be announced
+    - Paul Buerkner, ordinal regression
 
 ## Curriculum
 
