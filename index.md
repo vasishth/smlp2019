@@ -27,7 +27,7 @@ For previous iterations of this summer school, see the website for [SMLP 2017](h
 
 ### Introductory frequentist statistics (maximum 30 participants)
 
-Instructors: [Daniel Schad](https://danielschad.github.io/) and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
+Instructors: [Daniel Schad](https://danielschad.github.io/4-Contact.html) and [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html)
 
 Topics to be covered:
 
