@@ -47,7 +47,7 @@ Topics to be covered:
 
 Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Anna Laurinavichyute](https://www.hse.ru/en/staff/annlaurin)
 
-Topics to be covered:
+Topics to be covered: [course materials can be viewed here, under construction](https://vasishth.github.io/IntroductionBayes/)
 
 	- Basic probability theory, random variable (RV) theory, 
 	  including jointly distributed RVs
