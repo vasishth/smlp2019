@@ -45,7 +45,7 @@ Topics to be covered:
 
 ### Introductory Bayesian statistics (maximum 30 participants)
 
-Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Anna Laurinavichyute](https://www.hse.ru/en/staff/annlaurin)
+Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Anna Laurinavichyute](https://annlaurin.github.io/)
 
 Topics to be covered: [course materials can be viewed here, under construction](https://vasishth.github.io/IntroductionBayes/)
 
