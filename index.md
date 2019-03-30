@@ -45,7 +45,7 @@ Topics to be covered:
 
 ### Introductory Bayesian statistics (maximum 30 participants)
 
-Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/)
+Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Anna Laurinavichyute](https://www.hse.ru/en/staff/annlaurin)
 
 Topics to be covered:
 
@@ -53,7 +53,7 @@ Topics to be covered:
 	  including jointly distributed RVs
 	- probability distributions, including bivariate distributions
     - Using Bayes' rule for statistical inference
-    - Introduction Markov Chain Monte Carlo 
+    - Introduction to Markov Chain Monte Carlo 
     - Introduction to (generalized) linear models
     - Introduction to hierarchical models
     - Bayesian workflow
