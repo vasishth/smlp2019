@@ -90,15 +90,15 @@ Topics will be some selection of the following topics:
  
 ## Accomodation
 
-Special conference rates
+Special conference rates:
 
 Novum Hotel Aldea, Berlin: Sept. 8.-13.; single room: 109 Euro/night; double room: 124 Euro/night; booking/cancellation possible only until July 15. See form sent via email.
 
 Kongresshotel Potsdam: Sept. 8.-13.; single room: 109 Eur/night; booking/cancellation possible only until July 28. See keyword sent via email.
 
-Some alternative possibilities
+Some alternative possibilities:
 
-[air bnb](www.airbnb.de)
+[air bnb](https://www.airbnb.de)
 
 [Steigenberger Hotel Potsdam](https://www.steigenberger.com/hotels/alle-hotels/deutschland/potsdam/steigenberger-hotel-sanssouci)
 
@@ -106,11 +106,9 @@ Some alternative possibilities
 
 [NH Hotel Potsdam](https://www.nh-hotels.de/hotel/nh-potsdam)
 
-[hotel am Großen Waisenhaus](http://www.hotelwaisenhaus.de/)
+[Hotel am Großen Waisenhaus](http://www.hotelwaisenhaus.de/)
 
 [B&B Hotel Potsdam](https://www.hotelbb.de/de/potsdam?utm_source=gmb&utm_medium=referral&utm_content=potsdam&utm_campaign=yext)
-
-[Potsdamer Hostel](http://www.potsdamer-hostel.de/)
 
 [Quartier Potsdam Hostel](https://www.potsdam-hostel.com/)
 
