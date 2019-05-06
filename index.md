@@ -2,9 +2,10 @@
 
 ## Application form
 
-Please fill out [this form](https://goo.gl/forms/0Insv3bbbv1RrWiA2) to apply to attend this summer school. Deadling for applications: April 1, 2019. Decisions will be announced April 10, 2019.
+The application for the summer school is closed.
+Decisions have been announced on April 10, 2019.
 
-Some seats are reserved in each stream for members of the following groups: [SFB 1287](https://www.uni-potsdam.de/en/sfb1287/index.html), [SFB 1294](https://www.uni-potsdam.de/de/sfb1294.html), and [SFB 1102](http://www.sfb1102.uni-saarland.de/).
+Some seats in each stream have been allocated to members of the following groups: [SFB 1287](https://www.uni-potsdam.de/en/sfb1287/index.html), [SFB 1294](https://www.uni-potsdam.de/de/sfb1294.html), and [SFB 1102](http://www.sfb1102.uni-saarland.de/).
 
 ## Summer School Location
 
@@ -12,6 +13,7 @@ Some seats are reserved in each stream for members of the following groups: [SFB
 
 The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. Invited lectures will be held in Hoersaal H02. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
+The fee of 30 Euros will also be used to provide coffee & snacks.
 
 ## Keynote lectures
 
