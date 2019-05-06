@@ -92,21 +92,22 @@ Topics will be some selection of the following topics:
 
 Special conference rates
 
-    - Novum Hotel Aldea, Berlin: Sept. 8.-13.; single room: 109 Euro/night; double room: 124 Euro/night; booking/cancellation possible only until July 15. See form sent via email.
-    - Kongresshotel Potsdam: Sept. 8.-13.; single room: 109 Eur/night; booking/cancellation possible only until July 28. See keyword sent via email.
+Novum Hotel Aldea, Berlin: Sept. 8.-13.; single room: 109 Euro/night; double room: 124 Euro/night; booking/cancellation possible only until July 15. See form sent via email.
+
+Kongresshotel Potsdam: Sept. 8.-13.; single room: 109 Eur/night; booking/cancellation possible only until July 28. See keyword sent via email.
 
 Some alternative possibilities
 
-    - [air bnb](www.airbnb.de)
-    - [Steigenberger Hotel Potsdam](https://www.steigenberger.com/hotels/alle-hotels/deutschland/potsdam/steigenberger-hotel-sanssouci)
-    - [Mercure Hotel, Potsdam](https://www.accorhotels.com/de/hotel-1582-mercure-hotel-potsdam-city/index.shtml)
-    - [NH Hotel Potsdam](https://www.nh-hotels.de/hotel/nh-potsdam)
-    - [hotel am Großen Waisenhaus](http://www.hotelwaisenhaus.de/)
-    - [B&B Hotel Potsdam](https://www.hotelbb.de/de/potsdam?utm_source=gmb&utm_medium=referral&utm_content=potsdam&utm_campaign=yext)
-    - [Potsdamer Hostel](http://www.potsdamer-hostel.de/)
-    - [Quartier Potsdam Hostel](https://www.potsdam-hostel.com/)
-    - [Jugendherberge Potsdam – Haus der Jugend](https://www.jugendherberge.de/jugendherbergen/potsdam-671/portraet)
-    - [Jugendherberge Berlin – Am Wannsee](https://www.jugendherberge.de/jugendherbergen/berlin-am-wannsee-612/portraet/)
+[air bnb](www.airbnb.de)
+[Steigenberger Hotel Potsdam](https://www.steigenberger.com/hotels/alle-hotels/deutschland/potsdam/steigenberger-hotel-sanssouci)
+[Mercure Hotel, Potsdam](https://www.accorhotels.com/de/hotel-1582-mercure-hotel-potsdam-city/index.shtml)
+[NH Hotel Potsdam](https://www.nh-hotels.de/hotel/nh-potsdam)
+[hotel am Großen Waisenhaus](http://www.hotelwaisenhaus.de/)
+[B&B Hotel Potsdam](https://www.hotelbb.de/de/potsdam?utm_source=gmb&utm_medium=referral&utm_content=potsdam&utm_campaign=yext)
+[Potsdamer Hostel](http://www.potsdamer-hostel.de/)
+[Quartier Potsdam Hostel](https://www.potsdam-hostel.com/)
+[Jugendherberge Potsdam – Haus der Jugend](https://www.jugendherberge.de/jugendherbergen/potsdam-671/portraet)
+[Jugendherberge Berlin – Am Wannsee](https://www.jugendherberge.de/jugendherbergen/berlin-am-wannsee-612/portraet/)
 
 ## Funding
 
