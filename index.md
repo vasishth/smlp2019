@@ -20,6 +20,7 @@ The following are confirmed speakers:
     - Julia Haaf, on modeling individual differences  
     - Douglas Bates, title to be announced
     - Reinhold Kliegl, title to be announced
+    - Paul Buerkner, ordinal regression
 
 ## Curriculum
 
@@ -44,15 +45,15 @@ Topics to be covered:
 
 ### Introductory Bayesian statistics (maximum 30 participants)
 
-Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/)
+Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Anna Laurinavichyute](https://annlaurin.github.io/)
 
-Topics to be covered:
+Topics to be covered: [course materials can be viewed here, under construction](https://vasishth.github.io/IntroductionBayes/)
 
 	- Basic probability theory, random variable (RV) theory, 
 	  including jointly distributed RVs
 	- probability distributions, including bivariate distributions
     - Using Bayes' rule for statistical inference
-    - Introduction Markov Chain Monte Carlo 
+    - Introduction to Markov Chain Monte Carlo 
     - Introduction to (generalized) linear models
     - Introduction to hierarchical models
     - Bayesian workflow
