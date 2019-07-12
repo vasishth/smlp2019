@@ -10,6 +10,7 @@ You can download the floor plan of the Griebnitzsee campus building (Haus 6) and
 
 The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. The introductory session on Monday morning and invited lectures will be held in Hoersaal H02. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
+The fee of 30 Euros will also be used to provide coffee & snacks.
 
 ## Keynote lectures
 
@@ -86,9 +87,38 @@ Topics will be some selection of the following topics:
     - Model selection and hypothesis testing 
       (Bayes factor and k-fold cross-validation)
  
-### Additional short course on Friday (two 90 minute lectures) by [Ralf Engbert](to-do)
+### Additional short course on Friday (two 90 minute lectures) by [Ralf Engbert](https://www.uni-potsdam.de/de/expbiopsy/staff/ralf-engbert.html)
 
  An introduction to stochastic-dynamical models and to determinstic dynamical models. In the stochastic model lecture, the drift-diffusion model is presented and its link to Bayesian modeling made clear [see](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00102/full). In the second lecture, continuous-time discrete-state Markov processes will be covered, and an application area will be presented: eye-movement control in reading, focusing on two prominent models, E-Z Reader and SWIFT.
+
+## Accomodation
+
+Special conference rates:
+
+[Novum Hotel Aldea](https://www.novum-hotels.com/hotel-aldea-berlin), Berlin: Sept. 8.-13.; single room: 109 Euro/night; double room: 124 Euro/night; booking/cancellation possible only until July 14. See form sent via email.
+
+[Kongresshotel Potsdam](https://www.kongresshotel-potsdam.de/): Sept. 8.-13.; single room: 109 Eur/night; booking/cancellation possible only until June 28. See keyword sent via email. [Expired]()
+
+Some alternative possibilities:
+
+[air bnb](https://www.airbnb.de)
+
+[Steigenberger Hotel Potsdam](https://www.steigenberger.com/hotels/alle-hotels/deutschland/potsdam/steigenberger-hotel-sanssouci)
+
+[Mercure Hotel, Potsdam](https://www.accorhotels.com/de/hotel-1582-mercure-hotel-potsdam-city/index.shtml)
+
+[NH Hotel Potsdam](https://www.nh-hotels.de/hotel/nh-potsdam)
+
+[Hotel am Großen Waisenhaus](http://www.hotelwaisenhaus.de/)
+
+[B&B Hotel Potsdam](https://www.hotelbb.de/de/potsdam?utm_source=gmb&utm_medium=referral&utm_content=potsdam&utm_campaign=yext)
+
+[Quartier Potsdam Hostel](https://www.potsdam-hostel.com/)
+
+[Jugendherberge Potsdam – Haus der Jugend](https://www.jugendherberge.de/jugendherbergen/potsdam-671/portraet)
+
+[Jugendherberge Berlin – Am Wannsee](https://www.jugendherberge.de/jugendherbergen/berlin-am-wannsee-612/portraet/)
+>>>>>>> da744f35bbe403b338a4519a604e5234c47c2b70
 
 ## Funding
 
