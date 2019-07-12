@@ -2,7 +2,7 @@
 
 ## Schedule
 
-You can download the floor plan of the Griebnitzsee campus building (Haus 6) and the schedule for the summer school from [here](https://www.uni-potsdam.de/en/sfb1287/index.html).
+You can download the floor plan of the Griebnitzsee campus building (Haus 6) and the schedule for the summer school from [here](https://github.com/vasishth/smlp2019/blob/master/Schedule%2BRooms.pdf).
 
 ## Summer School Location
 
