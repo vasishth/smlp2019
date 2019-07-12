@@ -1,26 +1,24 @@
 ## Welcome to The Third Summer School on Statistical Methods for Linguistics and Psychology, 2019, 9-13 September
 
-## Application form
+## Schedule
 
-Please fill out [this form](https://goo.gl/forms/0Insv3bbbv1RrWiA2) to apply to attend this summer school. Deadling for applications: April 1, 2019. Decisions will be announced April 10, 2019.
-
-Some seats are reserved in each stream for members of the following groups: [SFB 1287](https://www.uni-potsdam.de/en/sfb1287/index.html), [SFB 1294](https://www.uni-potsdam.de/de/sfb1294.html), and [SFB 1102](http://www.sfb1102.uni-saarland.de/).
+You can download the floor plan of the Griebnitzsee campus building (Haus 6) and the schedule for the summer school from [here](https://www.uni-potsdam.de/en/sfb1287/index.html).
 
 ## Summer School Location
 
 [Griebnitzsee Campus, University of Potsdam, Germany](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=3)
 
-The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. Invited lectures will be held in Hoersaal H02. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
+The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. The introductory session on Monday morning and invited lectures will be held in Hoersaal H02. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 
 ## Keynote lectures
 
-The following are confirmed speakers:
+The speakers:
 
-    - Julia Haaf, on modeling individual differences  
-    - Douglas Bates, title to be announced
-    - Reinhold Kliegl, title to be announced
-    - Paul Buerkner, ordinal regression
+    - Julia Haaf, on modeling individual differences  (Hoersaal 02)
+    - Douglas Bates, title to be announced            (Hoersaal 02) 
+    - Reinhold Kliegl, title to be announced         
+    - Paul Buerkner, ordinal regression               (Hoersaak 02)
 
 ## Curriculum
 
@@ -88,6 +86,10 @@ Topics will be some selection of the following topics:
     - Model selection and hypothesis testing 
       (Bayes factor and k-fold cross-validation)
  
+### Additional short course on Friday (two 90 minute lectures) by [Ralf Engbert](to-do)
+
+ An introduction to stochastic-dynamical models and to determinstic dynamical models. In the stochastic model lecture, the drift-diffusion model is presented and its link to Bayesian modeling made clear [see](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00102/full). In the second lecture, continuous-time discrete-state Markov processes will be covered, and an application area will be presented: eye-movement control in reading, focusing on two prominent models, E-Z Reader and SWIFT.
+
 ## Funding
 
 This summer school is funded by the [DFG](dfg.de) and is part of the [SFB "Limits of Variability in Language"](https://www.uni-potsdam.de/sfb1287/index.html).
