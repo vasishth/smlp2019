@@ -8,7 +8,7 @@ You can download the floor plan of the Griebnitzsee campus building (Haus 6) and
 
 [Griebnitzsee Campus, University of Potsdam, Germany](https://www.uni-potsdam.de/db/zeik-portal/gm/lageplan-up.php?komplex=3)
 
-The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. The introductory session on Monday morning and invited lectures will be held in Hoersaal H02. Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
+The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6.  Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 The fee of 30 Euros will also be used to provide coffee & snacks.
 
@@ -16,10 +16,19 @@ The fee of 30 Euros will also be used to provide coffee & snacks.
 
 The speakers:
 
-    - Julia Haaf, on modeling individual differences  (Hoersaal 02)
-    - Douglas Bates, title to be announced            (Hoersaal 02) 
-    - Reinhold Kliegl, title to be announced         
-    - Paul Buerkner, ordinal regression               (Hoersaak 02)
+
+Bayesian group:
+
+    - Julia Haaf, on modeling individual differences  (Hoersaal 05)
+    - Paul Buerkner, ordinal regression               (Hoersaal 05)
+    - Ralf Engbert, dynamical modeling                (Hoersaal 01) 
+
+Frequentist group:
+
+    - Douglas Bates, title to be announced            (Hoersaal 05) 
+    - Reinhold Kliegl, title to be announced          (Hoersaal 05)
+    - Titus von der Malsburg, multiple comparisons    (Hoersaal 01)
+
 
 ## Curriculum
 
