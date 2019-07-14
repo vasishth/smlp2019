@@ -68,7 +68,7 @@ Topics to be covered: [course materials can be viewed here, under construction](
 
 ### Advanced frequentist methods (maximum 30 participants)
 
-Instructors: [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), [Daniel Schad](https://danielschad.github.io/), [Audrey Buerki](https://www.uni-potsdam.de/en/ling/staff-list/audreybuerki.html), and [Douglas Bates](https://www.stat.wisc.edu/~bates/)
+Instructors: [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), and [Douglas Bates](https://www.stat.wisc.edu/~bates/)
 
 Topics to be covered:
 
@@ -78,7 +78,7 @@ Topics to be covered:
     - Contrast coding and visualizing partial fixed effects
     - Shrinkage and partial pooling
     - Visualization
-    - [If there is demand] Some new developments in linear mixed modeling in Julia
+    - Calling Julia from R for very fast mixed modeling
 
 ### Advanced Bayesian methods (maximum 30 participants)
 
@@ -127,7 +127,6 @@ Some alternative possibilities:
 [Jugendherberge Potsdam – Haus der Jugend](https://www.jugendherberge.de/jugendherbergen/potsdam-671/portraet)
 
 [Jugendherberge Berlin – Am Wannsee](https://www.jugendherberge.de/jugendherbergen/berlin-am-wannsee-612/portraet/)
->>>>>>> da744f35bbe403b338a4519a604e5234c47c2b70
 
 ## Funding
 
