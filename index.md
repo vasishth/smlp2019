@@ -2,7 +2,12 @@
 
 ## Schedule
 
-You can download the floor plan of the Griebnitzsee campus building (Haus 6) and the schedule for the summer school from [here](https://github.com/vasishth/smlp2019/blob/master/Schedule%2BRooms.pdf).
+You can download the floor plan of the Griebnitzsee campus building (Haus 6) and the schedule for the summer school from [here](https://github.com/vasishth/smlp2019/blob/master/Rooms.pdf).
+
+The general schedule is [here](https://github.com/vasishth/smlp2019/blob/master/SMLP2019_schedule_20190625_general.pdf).
+
+The detailed schedule by stream is [here](https://github.com/vasishth/smlp2019/blob/master/SMLP2019_schedule_20190625_detailed.pdf).
+
 
 ## Summer School Location
 
@@ -21,13 +26,13 @@ Bayesian group:
 
     - Julia Haaf, on modeling individual differences  (Hoersaal 05)
     - Paul Buerkner, ordinal regression               (Hoersaal 05)
-    - Ralf Engbert, dynamical modeling                (Hoersaal 01) 
+    - Ralf Engbert, dynamical modeling                (Hoersaal 02) 
 
 Frequentist group:
 
     - Douglas Bates, title to be announced            (Hoersaal 05) 
     - Reinhold Kliegl, title to be announced          (Hoersaal 05)
-    - Titus von der Malsburg, multiple comparisons    (Hoersaal 01)
+    - Titus von der Malsburg, multiple comparisons    (Hoersaal 02)
 
 
 ## Curriculum
