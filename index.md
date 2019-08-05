@@ -4,9 +4,9 @@
 
 You can download the floor plan of the Griebnitzsee campus building (Haus 6) and the schedule for the summer school from [here](https://github.com/vasishth/smlp2019/blob/master/Rooms.pdf).
 
-The general schedule is [here](https://github.com/vasishth/smlp2019/blob/master/SMLP2019_schedule_20190625_general.pdf).
+The general schedule is [here](https://github.com/vasishth/smlp2019/blob/master/SMLP2019_schedule_general.pdf).
 
-The detailed schedule by stream is [here](https://github.com/vasishth/smlp2019/blob/master/SMLP2019_schedule_20190625_detailed.pdf).
+The detailed schedule by stream is [here](https://github.com/vasishth/smlp2019/blob/master/SMLP2019_schedule_detailed.pdf).
 
 
 ## Summer School Location
