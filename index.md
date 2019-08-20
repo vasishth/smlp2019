@@ -29,7 +29,7 @@ The speakers:
 Bayesian group:
 
     - Julia Haaf, on modeling individual differences  (Hoersaal 05)
-    - Paul Buerkner, ordinal regression               (Hoersaal 05)
+    - Paul Buerkner, ordinal regression               (Hoersaal 02)
     - Ralf Engbert, dynamical modeling                (Hoersaal 02) 
 
 Frequentist group:
