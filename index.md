@@ -113,7 +113,7 @@ Topics will be some selection of the following topics:
 
 Special conference rates:
 
-[Novum Hotel Aldea](https://www.novum-hotels.com/hotel-aldea-berlin), Berlin: Sept. 8.-13.; single room: 109 Euro/night; double room: 124 Euro/night; booking/cancellation possible only until July 14. See form sent via email.
+[Novum Hotel Aldea](https://www.novum-hotels.com/hotel-aldea-berlin), Berlin: Sept. 8.-13.; single room: 109 Euro/night; double room: 124 Euro/night; booking/cancellation possible only until July 14. See form sent via email. [Expired]()
 
 [Kongresshotel Potsdam](https://www.kongresshotel-potsdam.de/): Sept. 8.-13.; single room: 109 Eur/night; booking/cancellation possible only until June 28. See keyword sent via email. [Expired]()
 
