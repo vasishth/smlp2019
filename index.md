@@ -28,16 +28,15 @@ The speakers:
 
 Bayesian group:
 
-    - Julia Haaf, on modeling individual differences  (Hoersaal 05)
-    - Paul Buerkner, ordinal regression               (Hoersaal 02)
-    - Ralf Engbert, dynamical modeling                (Hoersaal 02) 
+- Julia Haaf, on modeling individual differences  (Hoersaal 05)
+- Paul Buerkner, ordinal regression               (Hoersaal 02)
+- Ralf Engbert, dynamical modeling (two lectures)                (Hoersaal 02) 
 
 Frequentist group:
 
-    - Douglas Bates, title to be announced            (Hoersaal 05) 
-    - Reinhold Kliegl, title to be announced          (Hoersaal 05)
-    - Titus von der Malsburg, multiple comparisons    (Hoersaal 02)
-
+- Douglas Bates, Assessing variability of parameter estimates      (Hoersaal 05) 
+- Reinhold Kliegl, title to be announced          (Hoersaal 05)
+- Titus von der Malsburg, multiple comparisons    (Hoersaal 02)
 
 ## Curriculum
 
@@ -62,9 +61,11 @@ Topics to be covered:
 
 ### Introductory Bayesian statistics (maximum 30 participants)
 
-Instructors: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/) and [Anna Laurinavichyute](https://annlaurin.github.io/)
+Instructor: [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
 
-Topics to be covered: [course materials can be viewed here, under construction](https://vasishth.github.io/IntroductionBayes/)
+Teaching assistant: [Anna Laurinavichyute](https://annlaurin.github.io/)
+
+Topics to be covered: [course materials can be viewed here](https://vasishth.github.io/IntroductionBayes/)
 
 	- Basic probability theory, random variable (RV) theory, 
 	  including jointly distributed RVs
@@ -72,7 +73,7 @@ Topics to be covered: [course materials can be viewed here, under construction](
     - Using Bayes' rule for statistical inference
     - Introduction to Markov Chain Monte Carlo 
     - Introduction to (generalized) linear models
-    - Introduction to hierarchical models
+    - Introduction to hierarchical linear models
     - Bayesian workflow
 
 ### Advanced frequentist methods (maximum 30 participants)
