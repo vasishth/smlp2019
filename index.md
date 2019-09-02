@@ -21,6 +21,10 @@ The summer school will be held at the Griebnitzsee campus of the University of P
 
 The fee of 30 Euros will also be used to provide coffee & snacks.
 
+## Code of conduct
+
+All participants will be expected to follow the [code of conduct](http://mc-stan.org/events/stancon2018/stancon-code_of_conduct.html), taken from [StanCon 2018](http://mc-stan.org/events/stancon2018/). In case a participant has any concerns, please contact any of the following people: Audrey Bürki, Shravan Vasishth, Bruno Nicenboim, Daniel Schad, or Reinhold Kliegl (see instructors listed below). 
+
 ## Keynote lectures
 
 The speakers:
@@ -28,15 +32,15 @@ The speakers:
 
 Bayesian group:
 
-- Julia Haaf, on modeling individual differences  (Hoersaal 05)
-- Paul Buerkner, ordinal regression               (Hoersaal 02)
-- Ralf Engbert, dynamical modeling (two lectures)                (Hoersaal 02) 
+- [Julia Haaf](https://www.uva.nl/en/profile/h/a/j.m.haaf/j.m.haaf.html?1567372687478), on modeling individual differences  (Hoersaal 05)
+- [Paul Buerkner](https://paul-buerkner.github.io/about/), ordinal regression               (Hoersaal 02)
+- [Ralf Engbert](https://www.uni-potsdam.de/expbiopsy/staff/ralf-engbert.html), dynamical modeling (two lectures)                (Hoersaal 02) 
 
 Frequentist group:
 
-- Douglas Bates, Assessing variability of parameter estimates      (Hoersaal 05) 
-- Reinhold Kliegl, title to be announced          (Hoersaal 05)
-- Titus von der Malsburg, multiple comparisons    (Hoersaal 02)
+- [Douglas Bates](http://pages.stat.wisc.edu/~bates/), Assessing variability of parameter estimates      (Hoersaal 05) 
+- [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), title to be announced          (Hoersaal 05)
+- [Titus von der Malsburg](https://tmalsburg.github.io/), multiple comparisons    (Hoersaal 02)
 
 ## Curriculum
 
@@ -75,6 +79,7 @@ Topics to be covered: [course materials can be viewed here](https://vasishth.git
     - Introduction to (generalized) linear models
     - Introduction to hierarchical linear models
     - Bayesian workflow
+    - Model comparison and selection
 
 ### Advanced frequentist methods (maximum 30 participants)
 
@@ -92,7 +97,7 @@ Topics to be covered:
 
 ### Advanced Bayesian methods (maximum 30 participants)
 
-Instructors: [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/) and [Shravan Vasishth](http://www.ling.uni-potsdam.de/~vasishth/)
+Instructor: [Bruno Nicenboim](http://www.ling.uni-potsdam.de/~nicenboim/)
 
 Topics will be some selection of the following topics:
 
