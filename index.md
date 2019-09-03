@@ -19,7 +19,7 @@ The detailed schedule by stream is [here](https://github.com/vasishth/smlp2019/b
 
 
 
-The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6.  Campus map: [download from here](https://www.uni-potsdam.de/db/zeik-portal/gm/griebnitzsee.pdf). Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
+The summer school will be held at the Griebnitzsee campus of the University of Potsdam; this is about 15-20 minutes away from Berlin zoo station by train. Lectures will be held in Haus 6. Please use [bvg.de](http://www.bvg.de/en/) for planning your travel (by train or bus).
 
 The fee of 30 Euros will also be used to provide coffee & snacks.
 
