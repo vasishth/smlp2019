@@ -34,9 +34,23 @@ The speakers:
 
 Bayesian group:
 
-- [Julia Haaf](https://www.uva.nl/en/profile/h/a/j.m.haaf/j.m.haaf.html?1567372687478), on modeling individual differences  (Hoersaal 05)
-- [Paul Buerkner](https://paul-buerkner.github.io/about/), ordinal regression               (Hoersaal 02)
-- [Ralf Engbert](https://www.uni-potsdam.de/expbiopsy/staff/ralf-engbert.html), dynamical modeling (two lectures)                (Hoersaal 02) 
+- [Julia Haaf](https://www.uva.nl/en/profile/h/a/j.m.haaf/j.m.haaf.html?1567372687478)  (Hoersaal 05)
+
+Title: *Does Everyone? Modeling Individual Differences in Cognitive Tasks*
+
+Abstract: 
+In psychological science, the main target of interest usually is an empirical effect. For example, we may be interested in human perception and ask participants to react to light spots flashing up on a screen as fast as they can. Psychologists typically ask whether, on average, participants respond faster to bright lights than to dim ones. We may extend this question to the individual participant level: Does everyone react to bright lights faster than to dim ones? In case of perception, this seems reasonable: After accounting for sample noise, we probably would expect that indeed everyone is better at perceiving higher-signal visual stimuli. Yet, we may not expect that everyone throws a ball further with their right hand than their left hand. Clearly, left-handed people may not. I propose a modeling approach to the “Does Everyone” question using Bayes factor model comparison with hierarchical models. This modeling approach allows researchers to distinguish between quantitative and qualitative individual differences, and the lack thereof. I apply the approach to data from the Stroop interference task, and discuss the implications of “Everyone Does” to large-scale correlational studies of individual differences.
+
+- [Paul Buerkner](https://paul-buerkner.github.io/about/) (Hoersaal 02)
+
+Title: *Bayesflow: Tools for data analysis following a principled Bayesian workflow*
+
+- [Ralf Engbert](https://www.uni-potsdam.de/expbiopsy/staff/ralf-engbert.html), dynamical modeling (two lectures, Hoersaal 02) 
+
+Title: *An introduction to stochastic-dynamical models and to determinstic dynamical models*
+
+Abstract: 
+In the stochastic model lecture, the drift-diffusion model is presented and its link to Bayesian modeling made clear [see](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00102/full). In the second lecture, continuous-time discrete-state Markov processes will be covered, and an application area will be presented: eye-movement control in reading, focusing on two prominent models, E-Z Reader and SWIFT.
 
 Frequentist group:
 
@@ -115,7 +129,6 @@ Topics will be some selection of the following topics:
  
 ### Additional short course on Friday (two 90 minute lectures) by [Ralf Engbert](https://www.uni-potsdam.de/de/expbiopsy/staff/ralf-engbert.html)
 
- An introduction to stochastic-dynamical models and to determinstic dynamical models. In the stochastic model lecture, the drift-diffusion model is presented and its link to Bayesian modeling made clear [see](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00102/full). In the second lecture, continuous-time discrete-state Markov processes will be covered, and an application area will be presented: eye-movement control in reading, focusing on two prominent models, E-Z Reader and SWIFT.
 
 ## Accomodation
 
