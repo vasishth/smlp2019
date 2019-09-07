@@ -55,6 +55,7 @@ In the stochastic model lecture, the drift-diffusion model is presented and its 
 Frequentist group:
 
 - [Douglas Bates](http://pages.stat.wisc.edu/~bates/), Assessing variability of parameter estimates      (Hoersaal 05) 
+
 - [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), Parsimoniously  fitting fitness         (Hoersaal 05)
 
 - [Titus von der Malsburg](https://tmalsburg.github.io/), multiple comparisons    (Hoersaal 02)
