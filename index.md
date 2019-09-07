@@ -56,7 +56,12 @@ Frequentist group:
 
 - [Douglas Bates](http://pages.stat.wisc.edu/~bates/), Assessing variability of parameter estimates      (Hoersaal 05) 
 - [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), Parsimoniously  fitting fitness         (Hoersaal 05)
+
 - [Titus von der Malsburg](https://tmalsburg.github.io/), multiple comparisons    (Hoersaal 02)
+
+Title: *The great parade of statistical errors in NHST – A large-scale simulation study*
+
+Abstract: It is well known that conducting multiple tests of the same hypothesis inflates false positive effects (Type 1 error).  We also know that low statistical power inflates false negative effects (Type 2 errors) and increases the size of Type M and the rate of Type S errors.  But how bad are these problems really?  And how can they be addressed?  I will present a large-scale simulation investigating these questions in great detail using eye-tracking research of reading behavior as an example. (No prior knowledge of eye-tracking is needed to follow the talk.)  The results suggest these problems are quite real and they show that the interpretation of results from NHST procedures is considerably more difficult than is commonly appreciated.  Regarding remedies, we will look at the Bonferroni correction, ways to increase statistical power, the role of computational models in formulating precise testable hypotheses, and pre-registration.
 
 ## Curriculum
 
