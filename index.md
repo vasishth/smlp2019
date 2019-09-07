@@ -58,7 +58,7 @@ Frequentist group:
 
 - [Reinhold Kliegl](https://www.uni-potsdam.de/en/cognitive-psychology/staff/kliegl-reinhold.html), Parsimoniously  fitting fitness         (Hoersaal 05)
 
-- [Titus von der Malsburg](https://tmalsburg.github.io/), multiple comparisons    (Hoersaal 02)
+- [Titus von der Malsburg](https://tmalsburg.github.io/) (Hoersaal 02)
 
 Title: *The great parade of statistical errors in NHST – A large-scale simulation study*
 
