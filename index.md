@@ -29,10 +29,7 @@ All participants will be expected to follow the [code of conduct](http://mc-stan
 
 ## Keynote lectures
 
-The speakers:
-
-
-Bayesian group:
+### Bayesian group:
 
 - [Julia Haaf](https://www.uva.nl/en/profile/h/a/j.m.haaf/j.m.haaf.html?1567372687478)  (Hoersaal 05)
 
@@ -52,7 +49,7 @@ Title: *An introduction to stochastic-dynamical models and to determinstic dynam
 Abstract: 
 In the stochastic model lecture, the drift-diffusion model is presented and its link to Bayesian modeling made clear [see](https://www.frontiersin.org/articles/10.3389/fnhum.2014.00102/full). In the second lecture, continuous-time discrete-state Markov processes will be covered, and an application area will be presented: eye-movement control in reading, focusing on two prominent models, E-Z Reader and SWIFT.
 
-Frequentist group:
+### Frequentist group:
 
 - [Douglas Bates](http://pages.stat.wisc.edu/~bates/), Assessing variability of parameter estimates      (Hoersaal 05) 
 
