@@ -44,6 +44,8 @@ In psychological science, the main target of interest usually is an empirical ef
 
 Title: *Bayesflow: Tools for data analysis following a principled Bayesian workflow*
 
+Abstract: Probabilistic programming languages such as Stan, which can be used to specify and fit Bayesian models, have revolutionized the practical application of Bayesian statistics. They are an integral part of Bayesian data analysis and as such, a necessity to obtain reliable and valid inference. However, they are not sufficient by themselves. Instead, they have to be combined with substantive statistical and subject matter knowledge, expertise in programming and data analysis, as well as critical thinking about the decisions made in the process. A principled Bayesian workflow consists of several steps from the design of the study, gathering of the data, model building, estimation, and validation, to the final conclusions about the effects under study. I want to present a concept for a software package that assists users in following a principled Bayesian workflow for their data analysis by diagnosing problems and giving recommendations for sensible next steps. This concept gives rise to a lot of interesting research questions we want to investigate in the upcoming years.
+
 - [Ralf Engbert](https://www.uni-potsdam.de/expbiopsy/staff/ralf-engbert.html), dynamical modeling (two lectures, Hoersaal 02) 
 
 Title: *An introduction to stochastic-dynamical models and to determinstic dynamical models*
