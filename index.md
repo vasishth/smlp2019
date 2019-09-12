@@ -1,6 +1,6 @@
 ## Welcome to The Third Summer School on Statistical Methods for Linguistics and Psychology, 2019, 9-13 September
 
-![](images/SMLP2019participants.jpeg?raw=true)
+![](SMLP2019participants.jpeg?raw=true)
 
 
 ## Registration
